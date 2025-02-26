@@ -1,11 +1,25 @@
+
 # 🚀 Delivery Duration Prediction 📦
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/Delivery-Duration-Prediction)](https://github.com/yourusername/Delivery-Duration-Prediction/graphs/contributors)
-[![License](https://img.shields.io/github/license/yourusername/Delivery-Duration-Prediction)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/Delivery-Duration-Prediction)](https://github.com/yourusername/Delivery-Duration-Prediction/issues)
+[![Pandas](https://img.shields.io/badge/Pandas-1.3.3%2B-green)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21.2%2B-orange)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3%2B-red)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2%2B-yellow)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2%2B-lightgrey)](https://scikit-learn.org/)
+[![Optuna](https://img.shields.io/badge/Optuna-2.10.0%2B-blue)](https://optuna.org/)
+[![Scikit-optimize](https://img.shields.io/badge/Scikit--optimize-0.8.1%2B-purple)](https://scikit-optimize.github.io/)
+[![Pickle](https://img.shields.io/badge/Pickle-Standard%20Library-brightgreen)](https://docs.python.org/3/library/pickle.html)
 
-This project aims to build and evaluate regression models to predict DoorDash delivery durations. By analyzing the historical data, we can help optimize delivery times and improve customer satisfaction.
+### Skills
+- **Data Cleaning**: Handling missing values, converting data types.
+- **Feature Engineering**: Creating new features, target encoding.
+- **Exploratory Data Analysis (EDA)**: Summary statistics, visualizations, correlation analysis.
+- **Regression Modeling**: Building and evaluating different regression models.
+- **Hyperparameter Tuning**: GridSearchCV, RandomizedSearchCV, Optuna.
+- **Model Evaluation**: RMSE, R² score.
+- **Model Saving**: Using pickle for model serialization.
+
 
 ## 📄 Table of Contents
 - [Project Overview](#project-overview)
