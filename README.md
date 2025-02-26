@@ -20,22 +20,10 @@
 - **Model Evaluation**: RMSE, R² score.
 - **Model Saving**: Using pickle for model serialization.
 
-
-## 📄 Table of Contents
-- [Project Overview](#project-overview)
-- [Data Description](#data-description)
-- [Data Preparation](#data-preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Modeling](#modeling)
-- [Metric Analysis](#metric-analysis)
-- [Results Summary](#results-summary)
-- [Future Directions](#future-directions)
-- [Conclusion](#conclusion)
-
 ## 📚 Project Overview
 When a consumer places an order on DoorDash, the expected delivery time is shown. Accurately predicting this time is crucial for consumer experience. In this project, we predict the estimated time taken for a delivery using historical data.
 
-## Business Problem
+## 📄Business Problem
 
 The goal of this project is to predict the delivery duration for DoorDash orders. Accurate delivery time predictions are crucial for enhancing customer satisfaction, optimizing delivery operations, and improving overall efficiency. By predicting delivery times more accurately, DoorDash can provide better estimates to customers, allocate resources more effectively, and reduce operational costs.
 
