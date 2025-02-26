@@ -21,7 +21,7 @@
 - **Model Saving**: Using pickle for model serialization.
 
 ## 📚 Project Overview
-When a consumer places an order on DoorDash, the expected delivery time is shown. Accurately predicting this time is crucial for consumer experience. In this project, we predict the estimated time taken for a delivery using historical data.
+When a consumer places an order on DoorDash, the expected delivery time is shown. Accurately predicting this time is crucial for consumer experience. In this project, I predict the estimated time taken for a delivery using historical data.
 
 ## 📄Business Problem
 
